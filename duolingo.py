@@ -123,6 +123,7 @@ def get_duolingo_daily(name, jwt):
 
 
 def make_edge_article_tts_mp3(text, language_short):
+    return
     """
     TODO Refactor this shit
     """
